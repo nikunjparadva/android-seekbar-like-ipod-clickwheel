@@ -21,4 +21,4 @@ seekbar castom rotation
 progress wheel
 seek bar handle
 
-**Vadim Petrov - 2012**
+**Vadim Petrov - 2020**
